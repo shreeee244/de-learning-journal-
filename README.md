@@ -30,8 +30,4 @@ but that I understood.
 Python → SQL → Data Warehousing → Spark → Airflow → Cloud (GCP / AWS)
 
 ## Stats
-
-| | |
-|---|---|
-| 📅 Started | June 2026 |
-| 📆
+shrustie patil 
