@@ -1,51 +1,37 @@
-# de-learning-journal-
-My daily learning log while building Data Engineering skills from scratch.
+# de-learning-journal
 
-## What This Contains
+> documenting my journey from zero to data engineer — one day at a time.
 
-### 📚 til/
+## Structure
 
-Daily "Today I Learned" entries where I document new concepts, tools, and lessons.
+| Folder         | Purpose                                                    |
+|----------------|------------------------------------------------------------|
+| `til/`         | Daily "Today I Learned" entries — concepts, tools, wins    |
+| `weekly-goals/`| Weekly targets, progress checks, and reflections           |
+| `resources/`   | Articles, courses, docs, and references worth keeping      |
 
-### 🎯 weekly-goals/
+## Why I'm Doing This
 
-Weekly goals, targets, and progress tracking.
+Writing things down forces real understanding.
+This journal is my public proof-of-work — not just that I studied,
+but that I understood.
 
-### 🔗 resources/
+## Current Focus — Month 1
 
-Useful articles, tutorials, courses, documentation, and references.
+- [ ] Python fundamentals
+- [ ] File handling & CSV parsing
+- [ ] APIs with Requests
+- [ ] Pandas for data manipulation
+- [ ] SQL basics
+- [ ] Git & GitHub workflows
 
-## Why I'm Documenting This
+## Roadmap
 
-Writing down what I learn helps me:
+Python → SQL → Data Warehousing → Spark → Airflow → Cloud (GCP / AWS)
 
-* Reinforce concepts
-* Track progress over time
-* Build consistency
-* Create a public record of my learning journey
+## Stats
 
-## Current Focus
-
-Month 1:
-
-* Python fundamentals
-* File handling
-* APIs
-* Pandas
-* SQL basics
-* Git & GitHub
-
-## Learning Roadmap
-
-Python → SQL → Data Warehousing → Spark → Airflow → Cloud (GCP/AWS)
-
-## Progress
-
-* Started: June 2026
-* Status: 🟡 In Progress
-
-## Author
-
-Shrustie Patil
-
-Aspiring Data Engineer documenting the journey one day at a time.
+| | |
+|---|---|
+| 📅 Started | June 2026 |
+| 📆
