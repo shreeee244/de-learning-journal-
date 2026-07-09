@@ -31,3 +31,4 @@ Python → SQL → Data Warehousing → Spark → Airflow → Cloud (GCP / AWS)
 
 ## Stats
 shrustie patil 
+date to start this time 10 july 2026
