@@ -11,7 +11,7 @@
 | `resources/`   | Articles, courses, docs, and references worth keeping      |
 
 ## Why I'm Doing This
-
+    
 Writing things down forces real understanding.
 This journal is my public proof-of-work — not just that I studied,
 but that I understood.
